@@ -1,0 +1,55 @@
+h1 {
+  display: inline;
+  font-size: 125%;
+}
+
+#title {
+  border-bottom: solid;
+}
+
+#tabs {
+  width: 99.9%;
+  height: 20%;
+  border-bottom: solid;
+}
+
+#resources {
+  position: absolute;
+  bottom: 0%;
+  width: 99.9%;
+  height: 20%;
+  border-top: solid;
+}
+#explore {
+  display:block;
+  visibility:hidden;
+}
+.res {
+  display: inline;
+  margin-left: 5%;
+  font-size: 120%
+}
+
+#space {
+  position: absolute;
+  width: 100%;
+  
+}
+
+#oil {
+  visibility: hidden;
+}
+#land {
+  visibility: hidden;
+}
+
+#pump {
+  visibility: hidden;
+}
+
+#explorationTab {
+  visibility: hidden;
+}
+#exploration {
+  visibility:hidden;
+}
